@@ -1,0 +1,29 @@
+_repo: Altenahr-en-zijn-omgeving-Bekoring-van-het-Matterhornland--by-J.-C.-Heer_19741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Neuhauser, Eduard
+    gutenberg_agent_id: '8854'
+    url: http://www.gutenberg.org/2009/agents/8854
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19741'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Altenahr (Germany) -- Description and travel'
+title: 'Altenahr en zijn omgeving
+
+  De Aarde en haar Volken, 1907—Also includes a short article
+
+  "Bekoring van het Matterhornland" by J. C. Heer'
+url: http://www.gutenberg.org/ebooks/19741
